@@ -1,7 +1,7 @@
 # OptimallyAccurate2D_receiverlist
 
 This is a 2D finite difference code (Opt2D) for modeling wave propagtion written by Nobuaki FUJI and modeified by Ssu-Ting LAI.
-"OptimallyAccurate2D_receiverlist" version of Opt2D code is specially designed for Matlab users for generating models and plotting the waveforms using Matlab.
+"OptimallyAccurate2D_receiverlist" version of Opt2D code is specially designed for Matlab users for generating models, generating receiver list and plotting the waveforms using Matlab.
 
 For the users,
 
