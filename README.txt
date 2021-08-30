@@ -7,7 +7,7 @@ For the users,
 
 1. There are mainly two parts of the code to take care: 1) models and 2) file of parameter setting.
 
-2. models/modelgenerator.m is an example Matlab file for generating Opt2D Vp, Vs and rho files input. Alsom the file models/modelgenerator.m will also generate a list of receivers (inffile/receiver_depth.txt) on the top of the models.
+2. models/modelgenerator.m is an example Matlab file for generating Opt2D Vp, Vs and rho files input. Also, the file models/modelgenerator.m will also generate a list of receivers (inffile/receiver_depth.txt) on the top of the models. However, you can also modify the receiver_depth.txt in inffile to change the positions of the receivers.
 
 3. inffile/para.inf is the most important file for controlling the parameters of wave propagation. The parameters in the para.inf file are list below:
    (Line 1).  MarmousiOPT => The name of the project.
